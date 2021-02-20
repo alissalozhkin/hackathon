@@ -1,0 +1,12 @@
+{
+    "manifest_version" : 2, 
+    "name" : "KidsMode", 
+    "description" : "Mental health support and anti-cyberbullying",
+    "version" : "1",
+    "author" : "Hacker Kings",
+    "browser_action" : {
+        "default_icon" : "tab-icon.png",
+        "default_popup" : "default_popup.html"
+    },
+    "permissions" : ["activeTab"]
+}
