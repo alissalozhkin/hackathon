@@ -1,7 +1,7 @@
 {
     "manifest_version" : 2, 
-    "name" : "KidsMode", 
-    "description" : "Mental health support and anti-cyberbullying",
+    "name" : "FroggyFriend", 
+    "description" : "Get quick and easy mental health support and keep your kids safe from cyberbullying. The internet is filled with hate, FroggyFriend will keep you safe!",
     "version" : "1.0.0",
     "icons": { "128": "tab-icon-2.png" },
     "author" : "Hacker Kings",
