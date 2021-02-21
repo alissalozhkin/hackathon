@@ -9,8 +9,8 @@ for (let i = 0; i < rawHtml.length; i++) {
     const element = rawHtml[i];
     text = element.innerHTML;
     
-    // element.innerHTML = "hacked";
-    // text.push(element.innerHTML);
+    element.innerHTML = "hacked";
+    // text.push(element.innerHTML);  
     console.log();  
 }
 /*
